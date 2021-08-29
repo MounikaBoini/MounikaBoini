@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mounika Boini
-- 🌱 I’m currently pursuing my Bachelors degree in CSE
+
  
 
 <!---
